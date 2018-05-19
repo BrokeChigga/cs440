@@ -1,0 +1,11 @@
+mp2/out/
+mp2/.idea/
+main
+.DS_Store
+.classpath
+.project
+*.pyc
+*.lst
+*.bak
+.settings/
+mp4/part1/__pycache__/

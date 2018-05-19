@@ -1,0 +1,880 @@
+====Training (alpha=0.500, decay=1000, gamma=0.100, ne=10, iter=15000)====
+Coverage: 85.520%
+Max Q: 0.948
+Min Q: -0.999
+Bounce Summary:
+           Total : 4829
+         Average : 4.83
+             Min : 1
+             Max : 25
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=5000, gamma=0.100, ne=10, iter=15000)====
+Coverage: 84.170%
+Max Q: 0.949
+Min Q: -0.998
+Bounce Summary:
+           Total : 4853
+         Average : 4.86
+             Min : 1
+             Max : 29
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=9000, gamma=0.100, ne=10, iter=15000)====
+Coverage: 84.440%
+Max Q: 0.979
+Min Q: -0.999
+Bounce Summary:
+           Total : 4935
+         Average : 4.94
+             Min : 1
+             Max : 25
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=13000, gamma=0.100, ne=10, iter=15000)====
+Coverage: 81.139%
+Max Q: 0.996
+Min Q: -1.000
+Bounce Summary:
+           Total : 5241
+         Average : 5.25
+             Min : 1
+             Max : 31
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=17000, gamma=0.100, ne=10, iter=15000)====
+Coverage: 84.418%
+Max Q: 0.972
+Min Q: -0.999
+Bounce Summary:
+           Total : 5412
+         Average : 5.42
+             Min : 1
+             Max : 32
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=21000, gamma=0.100, ne=10, iter=15000)====
+Coverage: 83.064%
+Max Q: 0.975
+Min Q: -1.000
+Bounce Summary:
+           Total : 4153
+         Average : 4.16
+             Min : 1
+             Max : 22
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=25000, gamma=0.100, ne=10, iter=15000)====
+Coverage: 81.177%
+Max Q: 0.972
+Min Q: -1.000
+Bounce Summary:
+           Total : 4135
+         Average : 4.14
+             Min : 1
+             Max : 35
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=29000, gamma=0.100, ne=10, iter=15000)====
+Coverage: 85.099%
+Max Q: 1.000
+Min Q: -0.998
+Bounce Summary:
+           Total : 3913
+         Average : 3.92
+             Min : 1
+             Max : 23
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=1000, gamma=0.200, ne=10, iter=15000)====
+Coverage: 84.842%
+Max Q: 0.990
+Min Q: -0.998
+Bounce Summary:
+           Total : 6842
+         Average : 6.85
+             Min : 1
+             Max : 34
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=5000, gamma=0.200, ne=10, iter=15000)====
+Coverage: 83.154%
+Max Q: 0.997
+Min Q: -1.000
+Bounce Summary:
+           Total : 6343
+         Average : 6.35
+             Min : 1
+             Max : 26
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=9000, gamma=0.200, ne=10, iter=15000)====
+Coverage: 81.389%
+Max Q: 0.998
+Min Q: -1.000
+Bounce Summary:
+           Total : 6103
+         Average : 6.11
+             Min : 1
+             Max : 25
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=13000, gamma=0.200, ne=10, iter=15000)====
+Coverage: 82.421%
+Max Q: 0.983
+Min Q: -0.999
+Bounce Summary:
+           Total : 5786
+         Average : 5.79
+             Min : 1
+             Max : 30
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=17000, gamma=0.200, ne=10, iter=15000)====
+Coverage: 80.168%
+Max Q: 0.996
+Min Q: -1.000
+Bounce Summary:
+           Total : 4038
+         Average : 4.04
+             Min : 1
+             Max : 18
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=21000, gamma=0.200, ne=10, iter=15000)====
+Coverage: 81.859%
+Max Q: 0.994
+Min Q: -1.000
+Bounce Summary:
+           Total : 5351
+         Average : 5.36
+             Min : 1
+             Max : 31
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=25000, gamma=0.200, ne=10, iter=15000)====
+Coverage: 82.576%
+Max Q: 1.000
+Min Q: -1.000
+Bounce Summary:
+           Total : 5137
+         Average : 5.14
+             Min : 1
+             Max : 24
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=29000, gamma=0.200, ne=10, iter=15000)====
+Coverage: 81.672%
+Max Q: 0.998
+Min Q: -1.000
+Bounce Summary:
+           Total : 5140
+         Average : 5.15
+             Min : 1
+             Max : 22
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=1000, gamma=0.300, ne=10, iter=15000)====
+Coverage: 84.868%
+Max Q: 0.997
+Min Q: -1.000
+Bounce Summary:
+           Total : 7673
+         Average : 7.68
+             Min : 1
+             Max : 45
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=5000, gamma=0.300, ne=10, iter=15000)====
+Coverage: 82.222%
+Max Q: 0.988
+Min Q: -0.998
+Bounce Summary:
+           Total : 6647
+         Average : 6.65
+             Min : 1
+             Max : 35
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=9000, gamma=0.300, ne=10, iter=15000)====
+Coverage: 80.695%
+Max Q: 0.999
+Min Q: -1.000
+Bounce Summary:
+           Total : 5242
+         Average : 5.25
+             Min : 1
+             Max : 22
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=13000, gamma=0.300, ne=10, iter=15000)====
+Coverage: 82.888%
+Max Q: 1.000
+Min Q: -1.000
+Bounce Summary:
+           Total : 5890
+         Average : 5.90
+             Min : 1
+             Max : 32
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=17000, gamma=0.300, ne=10, iter=15000)====
+Coverage: 82.618%
+Max Q: 1.000
+Min Q: -0.999
+Bounce Summary:
+           Total : 6338
+         Average : 6.34
+             Min : 1
+             Max : 31
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=21000, gamma=0.300, ne=10, iter=15000)====
+Coverage: 82.032%
+Max Q: 0.967
+Min Q: -0.998
+Bounce Summary:
+           Total : 5985
+         Average : 5.99
+             Min : 1
+             Max : 28
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=25000, gamma=0.300, ne=10, iter=15000)====
+Coverage: 83.617%
+Max Q: 0.999
+Min Q: -0.998
+Bounce Summary:
+           Total : 5746
+         Average : 5.75
+             Min : 1
+             Max : 29
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=29000, gamma=0.300, ne=10, iter=15000)====
+Coverage: 83.611%
+Max Q: 1.000
+Min Q: -0.999
+Bounce Summary:
+           Total : 6311
+         Average : 6.32
+             Min : 1
+             Max : 31
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=1000, gamma=0.400, ne=10, iter=15000)====
+Coverage: 83.772%
+Max Q: 1.000
+Min Q: -0.998
+Bounce Summary:
+           Total : 8370
+         Average : 8.38
+             Min : 1
+             Max : 39
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=5000, gamma=0.400, ne=10, iter=15000)====
+Coverage: 81.248%
+Max Q: 1.000
+Min Q: -0.999
+Bounce Summary:
+           Total : 6812
+         Average : 6.82
+             Min : 1
+             Max : 38
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=9000, gamma=0.400, ne=10, iter=15000)====
+Coverage: 78.824%
+Max Q: 0.982
+Min Q: -0.999
+Bounce Summary:
+           Total : 6015
+         Average : 6.02
+             Min : 1
+             Max : 36
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=13000, gamma=0.400, ne=10, iter=15000)====
+Coverage: 79.197%
+Max Q: 0.925
+Min Q: -0.998
+Bounce Summary:
+           Total : 8536
+         Average : 8.54
+             Min : 1
+             Max : 49
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=17000, gamma=0.400, ne=10, iter=15000)====
+Coverage: 82.068%
+Max Q: 0.979
+Min Q: -1.000
+Bounce Summary:
+           Total : 7185
+         Average : 7.19
+             Min : 1
+             Max : 40
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=21000, gamma=0.400, ne=10, iter=15000)====
+Coverage: 81.451%
+Max Q: 1.000
+Min Q: -1.000
+Bounce Summary:
+           Total : 6268
+         Average : 6.27
+             Min : 1
+             Max : 30
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=25000, gamma=0.400, ne=10, iter=15000)====
+Coverage: 79.927%
+Max Q: 0.995
+Min Q: -0.999
+Bounce Summary:
+           Total : 6193
+         Average : 6.20
+             Min : 1
+             Max : 31
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=29000, gamma=0.400, ne=10, iter=15000)====
+Coverage: 82.389%
+Max Q: 0.996
+Min Q: -0.999
+Bounce Summary:
+           Total : 6490
+         Average : 6.50
+             Min : 1
+             Max : 41
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=1000, gamma=0.500, ne=10, iter=15000)====
+Coverage: 82.380%
+Max Q: 0.927
+Min Q: -0.999
+Bounce Summary:
+           Total : 8844
+         Average : 8.85
+             Min : 1
+             Max : 42
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=5000, gamma=0.500, ne=10, iter=15000)====
+Coverage: 79.309%
+Max Q: 1.000
+Min Q: -0.999
+Bounce Summary:
+           Total : 7297
+         Average : 7.30
+             Min : 1
+             Max : 69
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=9000, gamma=0.500, ne=10, iter=15000)====
+Coverage: 79.390%
+Max Q: 0.997
+Min Q: -0.997
+Bounce Summary:
+           Total : 6670
+         Average : 6.68
+             Min : 1
+             Max : 33
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=13000, gamma=0.500, ne=10, iter=15000)====
+Coverage: 81.415%
+Max Q: 0.987
+Min Q: -0.999
+Bounce Summary:
+           Total : 7351
+         Average : 7.36
+             Min : 1
+             Max : 44
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=17000, gamma=0.500, ne=10, iter=15000)====
+Coverage: 80.428%
+Max Q: 0.999
+Min Q: -0.999
+Bounce Summary:
+           Total : 8423
+         Average : 8.43
+             Min : 1
+             Max : 52
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=21000, gamma=0.500, ne=10, iter=15000)====
+Coverage: 79.875%
+Max Q: 0.998
+Min Q: -0.998
+Bounce Summary:
+           Total : 6893
+         Average : 6.90
+             Min : 1
+             Max : 38
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=25000, gamma=0.500, ne=10, iter=15000)====
+Coverage: 81.962%
+Max Q: 0.997
+Min Q: -0.999
+Bounce Summary:
+           Total : 6849
+         Average : 6.86
+             Min : 1
+             Max : 42
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=29000, gamma=0.500, ne=10, iter=15000)====
+Coverage: 81.068%
+Max Q: 0.999
+Min Q: -1.000
+Bounce Summary:
+           Total : 7023
+         Average : 7.03
+             Min : 1
+             Max : 40
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=1000, gamma=0.600, ne=10, iter=15000)====
+Coverage: 78.663%
+Max Q: 0.997
+Min Q: -0.999
+Bounce Summary:
+           Total : 9408
+         Average : 9.42
+             Min : 1
+             Max : 48
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=5000, gamma=0.600, ne=10, iter=15000)====
+Coverage: 77.104%
+Max Q: 0.969
+Min Q: -0.999
+Bounce Summary:
+           Total : 9156
+         Average : 9.17
+             Min : 1
+             Max : 53
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=9000, gamma=0.600, ne=10, iter=15000)====
+Coverage: 77.316%
+Max Q: 0.991
+Min Q: -0.999
+Bounce Summary:
+           Total : 8562
+         Average : 8.57
+             Min : 1
+             Max : 41
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=13000, gamma=0.600, ne=10, iter=15000)====
+Coverage: 79.528%
+Max Q: 0.979
+Min Q: -1.000
+Bounce Summary:
+           Total : 8596
+         Average : 8.60
+             Min : 1
+             Max : 45
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=17000, gamma=0.600, ne=10, iter=15000)====
+Coverage: 78.712%
+Max Q: 1.000
+Min Q: -0.998
+Bounce Summary:
+           Total : 6721
+         Average : 6.73
+             Min : 1
+             Max : 39
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=21000, gamma=0.600, ne=10, iter=15000)====
+Coverage: 78.769%
+Max Q: 1.000
+Min Q: -1.000
+Bounce Summary:
+           Total : 7926
+         Average : 7.93
+             Min : 1
+             Max : 31
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=25000, gamma=0.600, ne=10, iter=15000)====
+Coverage: 78.937%
+Max Q: 1.000
+Min Q: -0.999
+Bounce Summary:
+           Total : 6712
+         Average : 6.72
+             Min : 1
+             Max : 34
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=29000, gamma=0.600, ne=10, iter=15000)====
+Coverage: 80.142%
+Max Q: 0.997
+Min Q: -0.999
+Bounce Summary:
+           Total : 7297
+         Average : 7.30
+             Min : 1
+             Max : 49
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=1000, gamma=0.700, ne=10, iter=15000)====
+Coverage: 78.515%
+Max Q: 0.964
+Min Q: -0.999
+Bounce Summary:
+           Total : 8994
+         Average : 9.00
+             Min : 1
+             Max : 43
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=5000, gamma=0.700, ne=10, iter=15000)====
+Coverage: 81.849%
+Max Q: 0.996
+Min Q: -0.999
+Bounce Summary:
+           Total : 7096
+         Average : 7.10
+             Min : 1
+             Max : 31
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=9000, gamma=0.700, ne=10, iter=15000)====
+Coverage: 79.007%
+Max Q: 0.999
+Min Q: -0.999
+Bounce Summary:
+           Total : 7985
+         Average : 7.99
+             Min : 1
+             Max : 39
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=13000, gamma=0.700, ne=10, iter=15000)====
+Coverage: 78.670%
+Max Q: 0.977
+Min Q: -0.999
+Bounce Summary:
+           Total : 7756
+         Average : 7.76
+             Min : 1
+             Max : 41
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=17000, gamma=0.700, ne=10, iter=15000)====
+Coverage: 79.428%
+Max Q: 1.000
+Min Q: -1.000
+Bounce Summary:
+           Total : 7423
+         Average : 7.43
+             Min : 1
+             Max : 35
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=21000, gamma=0.700, ne=10, iter=15000)====
+Coverage: 78.226%
+Max Q: 0.998
+Min Q: -0.999
+Bounce Summary:
+           Total : 7225
+         Average : 7.23
+             Min : 1
+             Max : 40
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=25000, gamma=0.700, ne=10, iter=15000)====
+Coverage: 80.017%
+Max Q: 0.999
+Min Q: -1.000
+Bounce Summary:
+           Total : 7932
+         Average : 7.94
+             Min : 1
+             Max : 36
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=29000, gamma=0.700, ne=10, iter=15000)====
+Coverage: 75.841%
+Max Q: 0.993
+Min Q: -1.000
+Bounce Summary:
+           Total : 8023
+         Average : 8.03
+             Min : 1
+             Max : 66
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=1000, gamma=0.800, ne=10, iter=15000)====
+Coverage: 77.628%
+Max Q: 0.993
+Min Q: -1.000
+Bounce Summary:
+           Total : 8828
+         Average : 8.84
+             Min : 1
+             Max : 37
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=5000, gamma=0.800, ne=10, iter=15000)====
+Coverage: 73.748%
+Max Q: 1.000
+Min Q: -1.000
+Bounce Summary:
+           Total : 7215
+         Average : 7.22
+             Min : 1
+             Max : 37
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=9000, gamma=0.800, ne=10, iter=15000)====
+Coverage: 78.872%
+Max Q: 0.993
+Min Q: -1.000
+Bounce Summary:
+           Total : 7815
+         Average : 7.82
+             Min : 1
+             Max : 39
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=13000, gamma=0.800, ne=10, iter=15000)====
+Coverage: 77.191%
+Max Q: 0.991
+Min Q: -1.000
+Bounce Summary:
+           Total : 7759
+         Average : 7.77
+             Min : 1
+             Max : 45
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=17000, gamma=0.800, ne=10, iter=15000)====
+Coverage: 75.780%
+Max Q: 1.000
+Min Q: -1.000
+Bounce Summary:
+           Total : 7069
+         Average : 7.08
+             Min : 1
+             Max : 35
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=21000, gamma=0.800, ne=10, iter=15000)====
+Coverage: 79.660%
+Max Q: 1.000
+Min Q: -0.999
+Bounce Summary:
+           Total : 7476
+         Average : 7.48
+             Min : 1
+             Max : 34
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=25000, gamma=0.800, ne=10, iter=15000)====
+Coverage: 81.187%
+Max Q: 1.000
+Min Q: -1.000
+Bounce Summary:
+           Total : 7696
+         Average : 7.70
+             Min : 1
+             Max : 30
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=29000, gamma=0.800, ne=10, iter=15000)====
+Coverage: 79.805%
+Max Q: 1.000
+Min Q: -1.000
+Bounce Summary:
+           Total : 7659
+         Average : 7.67
+             Min : 1
+             Max : 44
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=1000, gamma=0.900, ne=10, iter=15000)====
+Coverage: 80.422%
+Max Q: 1.004
+Min Q: -1.000
+Bounce Summary:
+           Total : 7258
+         Average : 7.27
+             Min : 1
+             Max : 36
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=5000, gamma=0.900, ne=10, iter=15000)====
+Coverage: 77.522%
+Max Q: 1.002
+Min Q: -1.000
+Bounce Summary:
+           Total : 7447
+         Average : 7.45
+             Min : 1
+             Max : 37
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=9000, gamma=0.900, ne=10, iter=15000)====
+Coverage: 78.493%
+Max Q: 1.000
+Min Q: -0.999
+Bounce Summary:
+           Total : 7536
+         Average : 7.54
+             Min : 1
+             Max : 39
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=13000, gamma=0.900, ne=10, iter=15000)====
+Coverage: 79.374%
+Max Q: 1.005
+Min Q: -1.000
+Bounce Summary:
+           Total : 7670
+         Average : 7.68
+             Min : 1
+             Max : 46
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=17000, gamma=0.900, ne=10, iter=15000)====
+Coverage: 80.448%
+Max Q: 1.002
+Min Q: -0.999
+Bounce Summary:
+           Total : 7118
+         Average : 7.13
+             Min : 1
+             Max : 34
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=21000, gamma=0.900, ne=10, iter=15000)====
+Coverage: 75.699%
+Max Q: 1.004
+Min Q: -0.999
+Bounce Summary:
+           Total : 7146
+         Average : 7.15
+             Min : 1
+             Max : 33
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=25000, gamma=0.900, ne=10, iter=15000)====
+Coverage: 73.876%
+Max Q: 1.004
+Min Q: -0.999
+Bounce Summary:
+           Total : 7659
+         Average : 7.67
+             Min : 1
+             Max : 37
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=29000, gamma=0.900, ne=10, iter=15000)====
+Coverage: 78.602%
+Max Q: 1.004
+Min Q: -1.000
+Bounce Summary:
+           Total : 7440
+         Average : 7.45
+             Min : 1
+             Max : 49
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=1000, gamma=1.000, ne=10, iter=15000)====
+Coverage: 75.551%
+Max Q: 4.182
+Min Q: -1.000
+Bounce Summary:
+           Total : 5417
+         Average : 5.42
+             Min : 1
+             Max : 31
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=5000, gamma=1.000, ne=10, iter=15000)====
+Coverage: 77.455%
+Max Q: 4.519
+Min Q: -1.000
+Bounce Summary:
+           Total : 5833
+         Average : 5.84
+             Min : 1
+             Max : 31
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=9000, gamma=1.000, ne=10, iter=15000)====
+Coverage: 73.831%
+Max Q: 4.397
+Min Q: -1.000
+Bounce Summary:
+           Total : 5658
+         Average : 5.66
+             Min : 1
+             Max : 32
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=13000, gamma=1.000, ne=10, iter=15000)====
+Coverage: 74.834%
+Max Q: 4.810
+Min Q: -1.000
+Bounce Summary:
+           Total : 5618
+         Average : 5.62
+             Min : 1
+             Max : 24
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=17000, gamma=1.000, ne=10, iter=15000)====
+Coverage: 78.329%
+Max Q: 4.987
+Min Q: -1.000
+Bounce Summary:
+           Total : 6515
+         Average : 6.52
+             Min : 1
+             Max : 34
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=21000, gamma=1.000, ne=10, iter=15000)====
+Coverage: 74.812%
+Max Q: 4.277
+Min Q: -1.000
+Bounce Summary:
+           Total : 4943
+         Average : 4.95
+             Min : 1
+             Max : 23
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=25000, gamma=1.000, ne=10, iter=15000)====
+Coverage: 77.930%
+Max Q: 4.615
+Min Q: -1.000
+Bounce Summary:
+           Total : 5711
+         Average : 5.72
+             Min : 1
+             Max : 43
+        Win Rate : 0.00%
+=========================================================================
+====Training (alpha=0.500, decay=29000, gamma=1.000, ne=10, iter=15000)====
+Coverage: 79.499%
+Max Q: 4.480
+Min Q: -1.000
+Bounce Summary:
+           Total : 5209
+         Average : 5.21
+             Min : 1
+             Max : 24
+        Win Rate : 0.00%
+=========================================================================

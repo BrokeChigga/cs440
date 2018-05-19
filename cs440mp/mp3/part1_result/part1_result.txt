@@ -1,0 +1,454 @@
+================DIGIT - BINARY FEATURE================
+Importing data...
+Training...
+Training finished in 0.042 seconds
+Testing...
+Testing finished in 2.741 seconds
+Overall accuracy: 77.300%
+['84.444%', '96.296%', '78.641%', '80.000%', '74.766%', '68.478%', '76.923%', '72.642%', '60.194%', '80.000%']
+
+Confusion Matrix:
+    76     0     1     0     1     5     3     0     4     0
+     0   104     1     0     0     2     1     0     0     0
+     1     3    81     4     2     0     6     1     5     0
+     0     1     0    80     0     3     2     7     1     6
+     0     0     1     0    80     1     4     1     2    18
+     2     1     1    12     3    63     1     1     2     6
+     1     4     4     0     4     6    70     0     2     0
+     0     5     4     0     3     0     0    77     3    14
+     1     1     3    14     3     8     0     1    62    10
+     1     1     0     3    10     2     0     2     1    80
+=====================================================
+
+===============DIGIT - PIXEL GROUP (2 * 2) =============
+Importing data...
+Training...
+Training finished in 0.060 seconds
+Testing...
+Testing finished in 0.557 seconds
+Overall accuracy: 85.800%
+['93.333%', '96.296%', '87.379%', '90.000%', '86.916%', '82.609%', '85.714%', '77.358%', '77.670%', '81.000%']
+
+Confusion Matrix:
+    84     0     0     1     0     0     2     0     3     0
+     0   104     1     0     1     1     1     0     0     0
+     1     1    90     2     0     0     3     2     4     0
+     0     0     1    90     0     4     1     1     1     2
+     0     1     0     0    93     0     2     1     1     9
+     1     1     0     8     0    76     0     1     3     2
+     1     2     0     0     2     7    78     0     1     0
+     0     5     5     0     1     1     0    82     2    10
+     2     1     3    11     1     3     0     1    80     1
+     1     1     0     3     8     1     0     3     2    81
+=====================================================
+
+===============DIGIT - PIXEL GROUP (2 * 4) =============
+Importing data...
+Training...
+Training finished in 0.503 seconds
+Testing...
+Testing finished in 0.362 seconds
+Overall accuracy: 88.600%
+['96.667%', '98.148%', '88.350%', '92.000%', '91.589%', '83.696%', '89.011%', '76.415%', '82.524%', '88.000%']
+
+Confusion Matrix:
+    87     0     0     1     0     0     0     0     2     0
+     0   106     1     0     0     0     1     0     0     0
+     0     1    91     1     0     0     3     2     4     1
+     0     0     1    92     0     3     1     2     0     1
+     0     1     0     0    98     0     2     0     0     6
+     1     0     0     9     1    77     0     1     1     2
+     1     2     1     0     1     4    81     0     1     0
+     0     4     5     0     4     0     0    81     2    10
+     2     1     3     9     0     1     0     1    85     1
+     1     0     0     4     4     1     0     2     0    88
+=====================================================
+
+===============DIGIT - PIXEL GROUP (4 * 2) =============
+Importing data...
+Training...
+Training finished in 0.492 seconds
+Testing...
+Testing finished in 0.357 seconds
+Overall accuracy: 87.900%
+['96.667%', '98.148%', '90.291%', '93.000%', '91.589%', '75.000%', '85.714%', '80.189%', '82.524%', '85.000%']
+
+Confusion Matrix:
+    87     0     0     0     0     0     1     1     1     0
+     0   106     0     0     1     0     1     0     0     0
+     2     1    93     0     0     0     2     2     3     0
+     0     0     1    93     0     1     0     2     1     2
+     0     0     0     0    98     0     2     1     0     6
+     2     1     1    12     0    69     1     1     2     3
+     1     2     0     0     2     7    78     0     1     0
+     0     3     3     0     1     1     0    85     2    11
+     2     1     3    10     0     0     1     1    85     0
+     1     0     0     4     6     1     0     2     1    85
+=====================================================
+
+===============DIGIT - PIXEL GROUP (4 * 4) =============
+Importing data...
+Training...
+Training finished in 88.358 seconds
+Testing...
+Testing finished in 0.272 seconds
+Overall accuracy: 84.600%
+['95.556%', '99.074%', '83.495%', '90.000%', '93.458%', '58.696%', '91.209%', '84.906%', '68.932%', '79.000%']
+
+Confusion Matrix:
+    86     0     0     0     0     0     2     1     1     0
+     0   107     0     0     0     0     1     0     0     0
+     1     8    86     0     2     0     2     3     1     0
+     0     1     1    90     0     0     2     5     0     1
+     0     1     0     0   100     0     2     2     0     2
+     1     2     1    23     4    54     1     1     2     3
+     0     1     2     0     2     2    83     0     1     0
+     0     6     2     0     3     0     0    90     1     4
+     2     6     3    10     3     0     2     5    71     1
+     2     0     0     2    10     0     0     6     1    79
+=====================================================
+
+===========DIGIT - PIXEL GROUP (2 * 2) OVERLAP==========
+Importing data...
+Training...
+Training finished in 0.247 seconds
+Testing...
+Testing finished in 2.305 seconds
+Overall accuracy: 87.100%
+['94.444%', '96.296%', '89.320%', '88.000%', '89.720%', '83.696%', '87.912%', '78.302%', '78.641%', '85.000%']
+
+Confusion Matrix:
+    85     0     0     0     0     1     2     0     2     0
+     0   104     1     0     1     0     1     0     1     0
+     1     1    92     2     1     0     2     1     2     1
+     0     0     0    88     0     2     1     4     1     4
+     0     0     0     0    96     0     2     1     0     8
+     1     0     0     9     0    77     0     1     2     2
+     1     2     0     0     1     6    80     0     1     0
+     0     4     5     0     2     0     0    83     1    11
+     2     1     3    10     0     2     0     1    81     3
+     1     0     0     2     6     1     0     1     4    85
+=====================================================
+
+===========DIGIT - PIXEL GROUP (2 * 4) OVERLAP==========
+Importing data...
+Training...
+Training finished in 3.641 seconds
+Testing...
+Testing finished in 3.990 seconds
+Overall accuracy: 89.600%
+['97.778%', '98.148%', '88.350%', '91.000%', '94.393%', '88.043%', '91.209%', '77.358%', '81.553%', '89.000%']
+
+Confusion Matrix:
+    88     0     0     0     0     0     1     0     1     0
+     0   106     1     0     0     0     1     0     0     0
+     1     1    91     0     0     0     4     1     4     1
+     0     0     0    91     0     3     1     5     0     0
+     0     1     0     0   101     0     2     0     0     3
+     1     0     0     6     0    81     0     1     2     1
+     1     2     0     0     0     4    83     0     1     0
+     0     4     5     0     2     0     0    82     1    12
+     2     1     3     8     1     1     0     1    84     2
+     1     0     0     2     3     1     0     2     2    89
+=====================================================
+
+===========DIGIT - PIXEL GROUP (4 * 2) OVERLAP==========
+Importing data...
+Training...
+Training finished in 3.776 seconds
+Testing...
+Testing finished in 4.056 seconds
+Overall accuracy: 90.200%
+['96.667%', '98.148%', '91.262%', '93.000%', '94.393%', '83.696%', '90.110%', '83.962%', '81.553%', '89.000%']
+
+Confusion Matrix:
+    87     0     0     0     0     0     1     1     1     0
+     0   106     0     0     1     0     1     0     0     0
+     0     1    94     2     0     0     2     1     3     0
+     0     0     1    93     0     1     0     3     1     1
+     0     0     0     0   101     0     2     1     0     3
+     1     0     1     8     0    77     0     1     2     2
+     1     1     0     0     1     5    82     0     1     0
+     0     3     5     0     1     0     0    89     1     7
+     1     1     4     8     1     1     0     1    84     2
+     1     0     0     3     3     1     0     1     2    89
+=====================================================
+
+===========DIGIT - PIXEL GROUP (4 * 4) OVERLAP==========
+Importing data...
+Training...
+Training finished in 933.867 seconds
+Testing...
+Testing finished in 13.575 seconds
+Overall accuracy: 87.400%
+['96.667%', '99.074%', '84.466%', '92.000%', '94.393%', '69.565%', '92.308%', '87.736%', '73.786%', '83.000%']
+
+Confusion Matrix:
+    87     0     0     0     0     0     1     1     1     0
+     0   107     0     0     0     0     1     0     0     0
+     2     4    87     1     1     0     3     2     2     1
+     0     0     0    92     0     0     1     6     1     0
+     0     1     0     0   101     0     2     1     0     2
+     1     2     1    15     2    64     0     2     3     2
+     1     1     0     0     3     2    84     0     0     0
+     0     6     4     0     0     0     0    93     0     3
+     2     6     3    10     1     0     1     2    76     2
+     1     0     0     4     4     0     0     6     2    83
+=====================================================
+
+===========DIGIT - PIXEL GROUP (2 * 3) OVERLAP==========
+Importing data...
+Training...
+Training finished in 1.028 seconds
+Testing...
+Testing finished in 3.540 seconds
+Overall accuracy: 88.800%
+['96.667%', '97.222%', '90.291%', '91.000%', '91.589%', '86.957%', '90.110%', '76.415%', '80.583%', '88.000%']
+
+Confusion Matrix:
+    87     0     0     0     0     0     1     0     2     0
+     0   105     1     0     0     0     1     0     1     0
+     1     1    93     0     0     0     2     1     4     1
+     0     0     0    91     0     2     1     4     1     1
+     0     1     0     0    98     0     2     1     0     5
+     1     0     0     6     0    80     0     1     3     1
+     1     2     0     0     0     5    82     0     1     0
+     0     4     5     0     2     0     0    81     1    13
+     2     1     3     8     1     2     0     1    83     2
+     1     0     0     2     3     1     0     2     3    88
+=====================================================
+
+===========DIGIT - PIXEL GROUP (3 * 2) OVERLAP==========
+Importing data...
+Training...
+Training finished in 0.962 seconds
+Testing...
+Testing finished in 3.118 seconds
+Overall accuracy: 90.000%
+['97.778%', '98.148%', '90.291%', '93.000%', '94.393%', '84.783%', '91.209%', '79.245%', '82.524%', '89.000%']
+
+Confusion Matrix:
+    88     0     0     0     0     0     1     0     1     0
+     0   106     0     0     1     0     1     0     0     0
+     0     1    93     2     1     0     2     1     3     0
+     0     0     0    93     0     1     0     3     1     2
+     0     0     0     0   101     0     2     1     0     3
+     1     0     0     8     0    78     0     1     2     2
+     1     1     0     0     0     5    83     0     1     0
+     0     4     4     0     2     0     0    84     2    10
+     1     1     3     8     0     2     0     1    85     2
+     1     0     0     3     3     1     0     1     2    89
+=====================================================
+
+===========DIGIT - PIXEL GROUP (3 * 3) OVERLAP==========
+Importing data...
+Training...
+Training finished in 7.270 seconds
+Testing...
+Testing finished in 3.493 seconds
+Overall accuracy: 90.000%
+['97.778%', '99.074%', '90.291%', '91.000%', '94.393%', '84.783%', '90.110%', '81.132%', '83.495%', '88.000%']
+
+Confusion Matrix:
+    88     0     0     0     0     0     1     0     1     0
+     0   107     0     0     0     0     1     0     0     0
+     1     1    93     1     0     0     2     1     3     1
+     0     0     1    91     0     2     1     3     1     1
+     0     1     0     0   101     0     2     1     0     2
+     1     0     1     7     0    78     0     1     2     2
+     1     1     0     0     1     5    82     0     1     0
+     0     4     6     0     1     0     0    86     0     9
+     2     1     3     7     1     0     0     2    86     1
+     1     0     0     2     3     1     0     2     3    88
+=====================================================
+
+================DIGIT - TERNARY FEATURE================
+Importing data...
+Training...
+Training finished in 0.058 seconds
+Testing...
+Testing finished in 2.751 seconds
+Overall accuracy: 77.800%
+['83.333%', '95.370%', '76.699%', '81.000%', '76.636%', '68.478%', '81.319%', '73.585%', '60.194%', '81.000%']
+
+Confusion Matrix:
+    75     0     1     0     0     6     3     0     5     0
+     0   103     0     0     0     2     1     0     2     0
+     1     3    79     4     1     1     7     2     5     0
+     0     1     0    81     0     3     2     6     2     5
+     0     0     0     0    82     1     3     1     2    18
+     2     1     1    12     3    63     1     1     2     6
+     0     3     3     0     4     5    74     0     2     0
+     0     6     3     0     3     0     0    78     3    13
+     1     1     3    12     3     9     0     1    62    11
+     1     0     0     2    10     2     0     2     2    81
+=====================================================
+
+================FACE - BINARY FEATURE================
+Importing data...
+Training...
+Training finished in 0.025 seconds
+Testing...
+Testing finished in 0.450 seconds
+Overall accuracy: 88.000%
+['89.610%', '86.301%']
+
+Confusion Matrix:
+    69     8
+    10    63
+=====================================================
+
+===============FACE - PIXEL GROUP (2 * 2) =============
+Importing data...
+Training...
+Training finished in 0.026 seconds
+Testing...
+Testing finished in 0.074 seconds
+Overall accuracy: 99.333%
+['100.000%', '98.630%']
+
+Confusion Matrix:
+    77     0
+     1    72
+=====================================================
+
+===============FACE - PIXEL GROUP (2 * 4) =============
+Importing data...
+Training...
+Training finished in 0.198 seconds
+Testing...
+Testing finished in 0.056 seconds
+Overall accuracy: 98.000%
+['97.403%', '98.630%']
+
+Confusion Matrix:
+    75     2
+     1    72
+=====================================================
+
+===============FACE - PIXEL GROUP (4 * 2) =============
+Importing data...
+Training...
+Training finished in 0.187 seconds
+Testing...
+Testing finished in 0.049 seconds
+Overall accuracy: 96.667%
+['94.805%', '98.630%']
+
+Confusion Matrix:
+    73     4
+     1    72
+=====================================================
+
+===============FACE - PIXEL GROUP (4 * 4) =============
+Importing data...
+Training...
+Training finished in 28.165 seconds
+Testing...
+Testing finished in 0.047 seconds
+Overall accuracy: 96.667%
+['94.805%', '98.630%']
+
+Confusion Matrix:
+    73     4
+     1    72
+=====================================================
+
+===========FACE - PIXEL GROUP (2 * 2) OVERLAP==========
+Importing data...
+Training...
+Training finished in 0.149 seconds
+Testing...
+Testing finished in 0.463 seconds
+Overall accuracy: 97.333%
+['98.701%', '95.890%']
+
+Confusion Matrix:
+    76     1
+     3    70
+=====================================================
+
+===========FACE - PIXEL GROUP (2 * 4) OVERLAP==========
+Importing data...
+Training...
+Training finished in 2.094 seconds
+Testing...
+Testing finished in 0.721 seconds
+Overall accuracy: 99.333%
+['98.701%', '100.000%']
+
+Confusion Matrix:
+    76     1
+     0    73
+=====================================================
+
+===========FACE - PIXEL GROUP (4 * 2) OVERLAP==========
+Importing data...
+Training...
+Training finished in 2.188 seconds
+Testing...
+Testing finished in 0.736 seconds
+Overall accuracy: 98.667%
+['97.403%', '100.000%']
+
+Confusion Matrix:
+    75     2
+     0    73
+=====================================================
+
+===========FACE - PIXEL GROUP (4 * 4) OVERLAP==========
+Importing data...
+Training...
+Training finished in 769.279 seconds
+Testing...
+Testing finished in 504.829 seconds
+Overall accuracy: 98.667%
+['97.403%', '100.000%']
+
+Confusion Matrix:
+    75     2
+     0    73
+=====================================================
+
+===========FACE - PIXEL GROUP (2 * 3) OVERLAP==========
+Importing data...
+Training...
+Training finished in 0.535 seconds
+Testing...
+Testing finished in 0.600 seconds
+Overall accuracy: 98.000%
+['98.701%', '97.260%']
+
+Confusion Matrix:
+    76     1
+     2    71
+=====================================================
+
+===========FACE - PIXEL GROUP (3 * 2) OVERLAP==========
+Importing data...
+Training...
+Training finished in 0.513 seconds
+Testing...
+Testing finished in 0.413 seconds
+Overall accuracy: 97.333%
+['97.403%', '97.260%']
+
+Confusion Matrix:
+    75     2
+     2    71
+=====================================================
+
+===========FACE - PIXEL GROUP (3 * 3) OVERLAP==========
+Importing data...
+Training...
+Training finished in 3.844 seconds
+Testing...
+Testing finished in 0.658 seconds
+Overall accuracy: 99.333%
+['98.701%', '100.000%']
+
+Confusion Matrix:
+    76     1
+     0    73
+=====================================================
+
